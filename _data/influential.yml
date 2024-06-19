@@ -1,0 +1,15 @@
+images:
+# TODO template book
+# TODO template other thing with seperate image
+  - img: "path/to/image1.jpg"
+    description: "Description for image 1"
+  - img: "path/to/image2.jpg"
+    description: "Description for image 2"
+  - img: "path/to/image3.jpg"
+    description: "Description for image 3"
+  - img: "path/to/image4.jpg"
+    description: "Description for image 4"
+  - img: "path/to/image5.jpg"
+    description: "Description for image 5"
+  - img: "path/to/image6.jpg"
+    description: "Description for image 6"

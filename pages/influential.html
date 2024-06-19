@@ -1,0 +1,22 @@
+---
+id: influential
+layout: default
+---
+
+<table>
+    <thead>
+      <tr>
+        <th>Image</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for item in site.data.images %}
+      <tr>
+        <td>{{ item.img }}</td>
+        <td>{{ item.description }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  
