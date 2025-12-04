@@ -1,0 +1,58 @@
+---
+id: influential
+layout: default
+permalink: /influential/
+---
+
+<style>
+.influential-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.influential-item {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 30px;
+  align-items: flex-start;
+}
+
+.influential-item img {
+  width: 150px;     /* adjust for desired size */
+  height: auto;
+  border-radius: 6px;
+}
+
+.influential-content {
+  max-width: 600px;
+}
+
+.influential-title {
+  font-size: 1.4em;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+</style>
+
+<ul class="influential-list">
+  {% for item in site.data.influential %}
+  <li class="influential-item">
+    
+    {% if item.book %}
+      <a href="https://openlibrary.org/isbn/{{ item.img }}">
+        <img src="https://covers.openlibrary.org/b/isbn/{{ item.img }}-L.jpg"
+             alt="Book Cover">
+      </a>
+    {% else %}
+      <img src="{{ item.img }}" alt="Image">
+    {% endif %}
+    
+    <div class="influential-content">
+      <div class="influential-title">{{ item.title }}</div>
+      <div class="influential-description">{{ item.description }}</div>
+    </div>
+
+  </li>
+  {% endfor %}
+</ul>
