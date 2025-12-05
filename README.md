@@ -6,11 +6,6 @@ Jekyll Template verwenden (https://jekyllrb.com/)
 ## Kategorie: Was mich beeinflusst
 
 TODO:
-- recomendations (including Horizon Zero Dawn)
-- instagram post
-- blog.twooceans.de
-- alles auf Rechtschreibung gegenchecken
-Post publish:
 - banner on every page (footer and header basically (footer with commments, and how they would like to be informed about updates))
 - Mail Newsletter?
 - mastodon comments?
