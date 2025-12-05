@@ -7,11 +7,21 @@ layout: home
 
 ## Willkommen!
 **(English translation below)**
-Willkommen auf meinem Blog, ich dachte ich probiere mal etwas anderes und fange auch mal an meine Meinung ins Internet zu schreien - in der Hoffnung mit anderen Menschen in Kontakt zu kommen, anzuregen und kritisiert zu werden. Ich würde mich sehr freuen, wenn du einen meiner Artikel liest und mir dann eine Mail schreibst, insbesondere wenn du (wie ich normalerweise) sonst nie im Internet kommentierst. Ich bitte dich nur darum, so wie ich es auch in meinem Artikeln versuche, so zu schreiben, als würdest du "face-to-face" direkt mit einem Menschen reden. Mein Eindruck ist oft, das ein Text oder die diversen anderen online Format es deutlich einfacher machen, verletzend und provokativ zu sein, in einer Art und weise wie man es nicht wäre, wenn man sich gegenüber sitzt. Dieser Blog ist - fürchte ich - ein wilder Mischmasch aus Englisch und Deutsch, sollte etwas für dich nicht verständlich sein nutze einfach ein Übersetzungstool oder schreib mir einfach.
+Willkommen auf meinem Blog! Ich möchte etwas Neues wagen und meine Gedanken ins Internet "schreien" - in der Hoffnung, mit anderen Menschen in Kontakt zu treten, Diskussionen anzuregen und konstruktive Kritik zu erfahren.
+
+Ich würde mich sehr freuen, wenn du einen meiner Artikel liest und mir eine E-Mail schreibst, besonders wenn du sonst eher zurückhaltend mit Online-Kommentaren bist. Ich bitte dich dann nur darum, dass wir so kommunizieren, wie wir es in einem persönlichen Gespräch von Angesicht zu Angesicht tun würden. 
+
+Mein Eindruck ist, dass die Textform und viele Onlineformate im speziellem es oft zu einfach machen, verletzend und provokativ zu sein - auf eine Art und Weise, die man in einem direkten Gespräch niemals wählen würde. 
+
+Dieser Blog ist - fürchte ich - ein wilder Mix aus Deutsch und Englisch. Sollte dir etwas unklar sein, nutze gerne ein Übersetzungstool oder schreib mir einfach eine Nachricht.
+
 
 **(German original above)**
-Hi, well come to my blog, while it is mostly in German (I still have a better feeling for nuances in German) I invite you to read the articles just as well and use a translation tool.
-TODO
+Hi, welcome to my blog! While this blog will primarily be in German (I still have a better feeling for nuances in my native language), I warmly invite you to read my articles. If something isn't clear, feel free to use a translation tool.
+
+With this blog I want to try something new and publish some thoughts of mine on the internet. Hoping to engange with new people, inspire some new thoughts and to get critisized in a constructive way. I'm particularly interested in hearing from those who, like me (until now), don't typically comment online. My only request for when you write me, is that you imagine we talk face-to-face when you write me, as I oftentimes have the feeling that writing in general and the internet in particular harm empathy and encourage to easily be more nasty than one would ever be in a face-to-face discussion.
+
+
 
 
 ## Empfehlungen
