@@ -19,7 +19,10 @@ Dieser Blog ist - fürchte ich - ein wilder Mix aus Deutsch und Englisch. Sollte
 **(German original above)**
 Hi, welcome to my blog! While this blog will primarily be in German (I still have a better feeling for nuances in my native language), I warmly invite you to read my articles. If something isn't clear, feel free to use a translation tool.
 
-With this blog I want to try something new and publish some thoughts of mine on the internet. Hoping to engange with new people, inspire some new thoughts and to get critisized in a constructive way. I'm particularly interested in hearing from those who, like me (until now), don't typically comment online. My only request for when you write me, is that you imagine we talk face-to-face when you write me, as I oftentimes have the feeling that writing in general and the internet in particular harm empathy and encourage to easily be more nasty than one would ever be in a face-to-face discussion.
+With this blog, I want to try something new and share my thoughts on the internet. My hope is to engage with new people, inspire fresh perspectives, and welcome constructive criticism. I'm particularly interested in hearing from those who, like me until now, don't typically comment online. 
+
+My only request when you write to me is that you imagine we're having a face-to-face conversation. I've often observed that written communication—and the internet in particular—can erode empathy and make it too easy to be more harsh or dismissive than we would ever be in a direct, personal dialogue.
+
 
 
 

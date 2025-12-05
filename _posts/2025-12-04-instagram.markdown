@@ -5,12 +5,17 @@ date:   2025-12-04 16:43:32 +0100
 categories: reflection
 ---
 
-Ich probiere aktuell Instagram aus, nachdem ich dem für 20 Jahre verweigert habe. Ich habe mir einen Monat gesetzt, in dem ich es mir mal anschaue und muss sagen ich freue mich schon sehr darauf die App wieder zu deinstallieren, aber hier erst mal ein paar Gedanken:
-Ich bin wirklich fasziniert, das es sich bei dieser App nicht, wie ich eigentlich dachte um eine Möglichkeit mit Freunden in Kontakt zu bleiben, was ich sehr schade finde da ich das immer den überzeugendsten Anwendungszweck fand.
-Ich versuche meinen Gedanken entwas in verschiedene Bedürfnisse und Wünsche die ich an die App habe zu trennen und zu analysieren.
-Zuerst einmal vorweg: Ich habe es nicht geglaubt, aber der Algorithmus hat es tatsächlich sehr schnell geschafft mir Content unterzuspülen, der mich interessiert und in der App gehalten hat, wenn auch nie länger als 10 Minuten, aber das ist wahrscheinlich viel Gewöhnungssache.
-Dabei schien es mir aber nicht so als müsste der Algorithmus selbst besonderes ausgefuchst sein, da die Überwiegende Mehrheit des mir vorgeschlagenen Contents bereits von Freunden von mir gelikt wurde und die Chance damit hoch war, das ich damit etwas anfangen kann.
-Wenn ich hier von Content rede, meine ich damit fast ausschließlich "Shorts" (auf Instagram Reels, sowie ich das verstehe), die maximal ungefähr eine Minute lang sind und sich danach wiederholen, das ist fast der einzige Content, dem man ausgesetzt ist (Stand November 2025), Bilder existieren kaum, Beiträge mit überwiegend Text gar nicht, viele Posts haben zwar etwas Begleittext, dieser ist aber sehr beworben platziert, nicht einfach zu lesen und mehrfach ist es mir passiert, das wenn ich im Text weiterlesen wollte (und dort gescrollt habe) stattdessen der Content weitergescrollt ist, was es sehr unangenehm gemacht hat.
+Ich probiere aktuell Instagram aus, nachdem ich es 20 Jahre lang verweigert habe. Ich habe mir einen Monat gesetzt, um die App zu erkunden, und muss schon jetzt sagen: Ich freue mich darauf, sie bald wieder zu deinstallieren. Und weiß jetzt schon das ich trotzdem einiges vermissen werde:
+
+Ich bin wirklich fasziniert, dass es sich bei dieser App nicht, wie ich eigentlich dachte, um eine Möglichkeit handelt, mit Freunden in Kontakt zu bleiben - was ich sehr schade finde, da ich das immer den überzeugendsten Anwendungszweck fand.
+
+Ich versuche, meine Gedanken etwas in verschiedene Bedürfnisse und Wünsche zu trennen, die ich an die App habe, und zu analysieren.
+
+Zuerst einmal vorweg: Ich habe es nicht geglaubt, aber der Algorithmus hat es tatsächlich sehr schnell geschafft, mir Content unterzuspülen, der mich interessiert und in der App gehalten hat - wenn auch nie länger als 10 Minuten, aber das ist wahrscheinlich viel Gewöhnungssache.
+
+Dabei schien es mir aber nicht so, als müsste der Algorithmus selbst besonders ausgefuchst sein, da die überwiegende Mehrheit des mir vorgeschlagenen Contents bereits von meinen Freunden geliket wurde und die Chance damit hoch war, dass ich damit etwas anfangen kann.
+
+Wenn ich hier von Content rede, meine ich damit fast ausschließlich "Shorts" (auf Instagram Reels, soweit ich das verstehe), die maximal ungefähr eine Minute lang sind und sich danach wiederholen. Das ist fast der einzige Content, dem man ausgesetzt ist (Stand November 2025). Bilder existieren kaum, Beiträge mit überwiegend Text gar nicht. Viele Posts haben zwar etwas Begleittext, dieser ist aber sehr beworben platziert und nicht einfach zu lesen. Mehrfach ist es mir passiert, dass ich, wenn ich im Text weiterlesen wollte (und dort gescrollt habe), stattdessen den Content weitergescrollt habe, was es sehr unangenehm gemacht hat.
 
 ## Gesellschaftlicher Gatekeeper:
 Zu erst einmal sollte ich vllt. erklären, warum ich mir Instagram überhaupt nach so langer Zeit geholt habe: Nachdem ich schon so oft davon von anderen gehört habe, und langsam einsehe, das ich gewisse Daten von mir eh weit verbreitet sind (es gibt auch diverse Fotos auf Instagram von mir, bei denen ich insbesondere bei verschiedenen Veranstaltungen bin, von denen man denke ich schon einiges über mich schließen kann)

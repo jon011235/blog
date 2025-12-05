@@ -1,16 +1,24 @@
-# TODO template book
-# TODO template other thing with seperate image
 - img: "3-518-36579-7"
   title: "Das Glasperlenspiel"
-  description: "Die Komplexität und Vielseitigkeit der Erzählung und der Charaktere hat mich sehr beeindruckt. Die Art wie das Buch ein Leben von Anfang bis Ende umfasst und das Gedicht was dieses Leben dann beschreibt, haben mich zum ersten Mal begreifen lassen, warum Menschen Gedichte so wertschätzen. Das Buch hat mich wriklich sehr berührt und beschäftigt und ich kann gar nicht mal so genau sagen warum. Es hat mich aber beispielsweise dazu gebracht sporadisch Tagebuch zu führen um ein besseres Gefühl dafür zu bekommen, wie sehr ich mich verändere"
+  description: >-
+    Die Komplexität und Vielseitigkeit der Erzählung und der Charaktere hat mich sehr beeindruckt. Die Art, wie das Buch ein Leben von Anfang bis Ende umfasst, und das Gedicht, das dieses Leben beschreibt, haben mich zum ersten Mal begreifen lassen, warum Menschen Gedichte so wertschätzen. Das Buch hat mich wirklich sehr berührt und beschäftigt - ich kann nicht genau sagen, warum. Es hat mich beispielsweise dazu gebracht, sporadisch Tagebuch zu führen, um ein besseres Gefühl dafür zu bekommen, wie sehr ich mich verändere.
   book: true
 - img: "978-0-470-22905-7"
   title: "The Annotated Turing"
   book: true
-  description: "This book makes Turings original paper very accessible. It is extremely interesting to see the roots of a fundamental concept of computer science. Especially the differences between the 'original' turing machines and turing machines as used in my lectures was fascinating. The machines turing is interested in are 'circle free', meaning in particular they never halt or get stuck in alternating writes but continue to write a number forever. For instance a machine for ever writing pi. While the turing machines I am used to are supposed to halt and solve algorithmic problems, instead of 'merely' computing numbers. Also the book showed the originis of lambda calculus and the historical backgrounds of these concepts (such as the people and the papers involved). It also touched on other foundations such as first order logic and the difference between intuitionists and formalists. In contrast to all explanations of turings achievments this provided an acutal explanation. Notonly do most other explanation leave out the transition between turing machines and first order logic and turings argumentation that turing machines actually do what is considered as 'computing' but also leave out that acutally Alonzo Church was the first to show there are no general concept to solve all algebraic problems. It also caused me to struggle with the concept of real numbers and there usefullness (as opposed to computable numbers) and excluded middle. I am still struggling to regain my footing but it definitely extended my grasp on what numbers actually are and how weird the continuum is."
+  description: >-
+   This book makes Turing's original paper very accessible. It is extremely interesting to see the roots of a fundamental concept of computer science. Especially the differences between the 'original' Turing machines and Turing machines as used in my lectures were fascinating.
+
+   The machines Turing is interested in are 'circle free', meaning in particular they never halt or get stuck in alternating writes but continue to write a number forever. For instance, a machine for ever writing pi. While the Turing machines I am used to are supposed to halt and solve algorithmic problems, instead of 'merely' computing numbers.
+
+   The book showed the origins of lambda calculus and the historical backgrounds of these concepts (such as the people and the papers involved). It also touched on other foundations such as first-order logic and the difference between intuitionists and formalists.
+
+   In contrast to all explanations of Turing's achievements, this provided an actual explanation. Not only do most other explanations leave out the transition between Turing machines and first-order logic and Turing's argumentation that Turing machines actually do what is considered as 'computing', but they also leave out that actually Alonzo Church was the first to show there are no general concepts to solve all algebraic problems.
+
+   It also caused me to struggle with the concept of real numbers and their usefulness (as opposed to computable numbers) and the law of excluded middle. I am still struggling to regain my footing, but it definitely extended my grasp on what numbers actually are and how weird the continuum is.
 
 - img: "978-3-729-60305-9"
   title: "Der Richter und sein Henker"
   book: true
-  description: "Ich bin ein großer Dürrematt Fan und finde dies ist sein bestes Werk, der Gegensatz zwischen einem absoluten, morallosen Nihilisten und einem von diesem bessenem Polizisten ist brilliant. Und insbesondere die Frage wie weit er geht um sein Lebensziel zu erreichen."
-
+  description: >-
+    Ich bin ein großer Dürrenmatt-Fan und finde, dies ist sein bestes Werk. Der Gegensatz zwischen einem absoluten, morallos nihilistischen Charakter und dem von diesem besessenen Polizisten ist brilliant. Insbesondere die Frage, wie weit er geht, um sein Lebensziel zu erreichen, fasziniert mich.
