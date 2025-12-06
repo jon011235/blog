@@ -45,7 +45,9 @@ permalink: /influential/
              alt="Book Cover">
       </a>
     {% else %}
-      <img src="{{ item.img }}" alt="Image">
+      <a href="{{item.link}}">
+          <img src="{{ item.img }}" alt="Image">
+      </a>
     {% endif %}
     
     <div class="influential-content">
