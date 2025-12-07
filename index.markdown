@@ -53,7 +53,7 @@ Some books and other media that I recommend (look at the [influential](/influent
              alt="Book Cover">
       </a>
     {% else %}
-      <img src="{{ item.img }}" alt="Image">
+      <a href="{{item.link}}"><img src="{{ item.img }}" alt="Image"></a>
     {% endif %}
   {% endfor %}
 </div>
