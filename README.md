@@ -11,7 +11,6 @@ TODO:
 - mastodon comments?
 - footnotes? https://stackoverflow.com/questions/19483975/jekyll-on-github-pages-any-way-to-add-footnotes-in-markdown
 
-[ ] RSS Feed: https://github.com/jekyll/jekyll-feed
 
 Nice to have: https://jan.wildeboer.net/2023/02/Jekyll-Mastodon-Comments/
 

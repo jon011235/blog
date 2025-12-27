@@ -1,10 +1,28 @@
 - img: "3-518-36579-7"
   title: "Das Glasperlenspiel"
+  added: 2024-07-14
   description: >-
     Die Komplexität und Vielseitigkeit der Erzählung und der Charaktere hat mich sehr beeindruckt. Die Art, wie das Buch ein Leben von Anfang bis Ende umfasst, und das Gedicht, das dieses Leben beschreibt, haben mich zum ersten Mal begreifen lassen, warum Menschen Gedichte so wertschätzen. Das Buch hat mich wirklich sehr berührt und beschäftigt - ich kann nicht genau sagen, warum. Es hat mich beispielsweise dazu gebracht, sporadisch Tagebuch zu führen, um ein besseres Gefühl dafür zu bekommen, wie sehr ich mich verändere.
   book: true
+
+
+- img: "978-3-257-22535-8"
+  title: "Der Richter und sein Henker"
+  added: 2024-06-14
+  book: true
+  description: >-
+    Ich bin ein großer Dürrenmatt-Fan und finde, dies ist sein bestes Werk. Der Gegensatz zwischen einem absoluten, morallos nihilistischen Charakter und dem von diesem besessenen Polizisten ist brilliant. Insbesondere die Frage, wie weit er geht, um sein Lebensziel zu erreichen, fasziniert mich.
+
+- img: "978-0-140-07615-8"
+  title: "Flatland: A Romance of Many Dimensions by A. Square"
+  added: 2025-12-25
+  book: true
+  description: >-
+    This book impressively achieves two things, both inviting the reader to reconsider the limits of their perception:  First, it is a satire of Victorian society; while I cannot judge the quality or accuracy of that satire, it is nonetheless fascinating to read a work aimed at a world that no longer exists. In this way the novel offers a new window onto a culture that is otherwise unintelligible to us, and it does so in an unconventional manner. The second achievement is that most of the story takes place in two‑dimensional space, thereby challenging the way we perceive reality. It vividly shows how unimaginable three‑dimensional space would be to a 2‑D creature, and, by extension, highlights our own difficulty in visualising dimensions beyond the familiar three.
+
 - img: "978-0-470-22905-7"
   title: "The Annotated Turing"
+  added: 2024-12-01
   book: true
   description: >-
    This book makes Turing's original paper very accessible. It is extremely interesting to see the roots of a fundamental concept of computer science. Especially the differences between the 'original' Turing machines and Turing machines as used in my lectures were fascinating.
@@ -17,15 +35,11 @@
 
    It also caused me to struggle with the concept of real numbers and their usefulness (as opposed to computable numbers) and the law of excluded middle. I am still struggling to regain my footing, but it definitely extended my grasp on what numbers actually are and how weird the continuum is.
 
-- img: "978-3-729-60305-9"
-  title: "Der Richter und sein Henker"
-  book: true
-  description: >-
-    Ich bin ein großer Dürrenmatt-Fan und finde, dies ist sein bestes Werk. Der Gegensatz zwischen einem absoluten, morallos nihilistischen Charakter und dem von diesem besessenen Polizisten ist brilliant. Insbesondere die Frage, wie weit er geht, um sein Lebensziel zu erreichen, fasziniert mich.
 
 - img: "https://images.igdb.com/igdb/image/upload/t_cover_big/co2una.webp"
   link: "https://www.igdb.com/games/horizon-zero-dawn"
   title: "Horizon Zero Dawn"
+  added: 2025-12-01
   description: >-
     Ich glaube, was mich daran am meisten fasziniert hat, ist das für mich völlig neue Medienformat. Zwar habe ich durchaus immer wieder Computerspiele gespielt, aber nie eines, das eine Geschichte erzählen wollte. Das tut Horizon Zero Dawn in beeindruckender Weise, in allen Facetten: Sprache, Mimik, Kleidung, Umgebung und Wetter. Hinzu kommt, dass man frei entscheiden kann, was einen interessiert: Ob man über die Lebensweise dieses Volkes mehr lernen möchte oder die Geschichte dieser Person – oder eben auch nicht.
 

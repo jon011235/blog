@@ -29,6 +29,7 @@ lang: de-DE
 theme: minima
 # TODO change to Cayman
 
+# TODO needed? https://stackoverflow.com/questions/19483975/jekyll-on-github-pages-any-way-to-add-footnotes-in-markdown
 plugins:
   - jekyll-feed
 
