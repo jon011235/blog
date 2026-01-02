@@ -97,18 +97,6 @@ def toot_post(instance, token, content, in_reply_to_id=None):
     r.raise_for_status() # Throw exception if this did not work
     return r.json()
 
-
-def git_commit_and_push(files, message):
-    if not files:
-        return
-    subprocess.check_call(["git", "config", "user.name", "github-actions[bot]"])
-    subprocess.check_call(["git", "config", "user.email", "invalid@example.com"])
-    subprocess.check_call(["git", "add"] + files)
-    subprocess.check_call(["git", "commit", "-m", message])
-    # push using the repository origin; GITHUB_TOKEN is available in env for auth via checkout
-    subprocess.check_call(["git", "push"])
-
-
 def main():
     token = os.getenv("MASTODON_TOKEN")
 
@@ -184,10 +172,6 @@ Zum kommentieren, einfach unter diesem Toot kommentieren, die toots landen dann 
         new_content = build_content(fm, body)
         path.write_text(new_content, encoding="utf-8")
         changed_files.append(str(path))
-
-    if changed_files:
-        git_commit_and_push(changed_files, "Add comment_id for tooted posts")
-
 
 if __name__ == "__main__":
     main()
