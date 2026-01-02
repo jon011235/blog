@@ -3,7 +3,6 @@ layout: post_comment
 title: "Ein Monat Instagram - Eindr\xFCcke nach langer Verweigerung"
 date: 2025-12-04 16:43:32 +0100
 categories: reflection
-comment_id: '115827220511082913'
 ---
 > **Update: 2.1.2026**: Ursprünglich hieß der Text "Ein Monat Instagram - die ultimative Challenge", was ich schön ironisch fand, aber anscheinend kam die Ironie nicht an und es wurde stattdessen als tatsächlicher Clickbait interpretiert. Ich fürchte der Titel ist immer noch nicht gut, aber hoffentlich besser.
 
