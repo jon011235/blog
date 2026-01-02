@@ -1,9 +1,11 @@
 ---
-layout: post
-title:  "Ein Monat Instagram - die ultimative Social Media Challenge"
-date:   2025-12-04 16:43:32 +0100
+layout: post_comment
+title: "Ein Monat Instagram - Eindr\xFCcke nach langer Verweigerung"
+date: 2025-12-04 16:43:32 +0100
 categories: reflection
+comment_id: '115827220511082913'
 ---
+> **Update: 2.1.2026**: Ursprünglich hieß der Text "Ein Monat Instagram - die ultimative Challenge", was ich schön ironisch fand, aber anscheinend kam die Ironie nicht an und es wurde stattdessen als tatsächlicher Clickbait interpretiert. Ich fürchte der Titel ist immer noch nicht gut, aber hoffentlich besser.
 
 Ich probiere aktuell Instagram aus, nachdem ich es 20 Jahre lang verweigert habe. Ich habe mir einen Monat gesetzt, um die App zu erkunden, und muss schon jetzt sagen: Ich freue mich darauf, sie bald wieder zu deinstallieren. Ich weiß jetzt schon, dass ich trotzdem einiges vermissen werde:
 

@@ -27,6 +27,30 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  toot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install script dependencies
+        run: pip install -r .github/scripts/requirements.txt
+
+      - name: Run toot script
+        env:
+          MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/toot_and_commit.py
+
+
+
   # Build job
   build:
     runs-on: ubuntu-latest

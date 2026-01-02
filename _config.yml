@@ -23,6 +23,10 @@ email: blog@twooceans.de
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.twoooceans.de" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jon011235
+mastodon:
+- username: overwhelming_complexity
+  instance: troet.cafe
+
 lang: de-DE
 
 # Build settings
