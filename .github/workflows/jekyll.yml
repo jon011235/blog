@@ -16,7 +16,7 @@ on:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -45,7 +45,7 @@ jobs:
       - name: Install script dependencies
         run: pip install -r .github/scripts/requirements.txt
 
-      - name: Run toot script
+      - name: Run toot script # TODO may fail silently because of python issues
         env:
           MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
         run: python .github/scripts/toot_and_commit.py
