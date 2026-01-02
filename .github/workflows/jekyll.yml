@@ -28,6 +28,8 @@ concurrency:
 
 jobs:
   toot:
+    environment:
+      name: toot
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
