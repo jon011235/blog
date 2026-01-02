@@ -52,10 +52,10 @@ jobs:
       
       - name: add_commit_push
         run: |
-          git config --global user.name 'Your Name'
-          git config --global user.email 'your-username@users.noreply.github.com'
+          git config --global user.name 'github actions bot'
+          git config --global user.email 'invalid@example.com'
           git add _posts/*
-          git commit -m "added comment_ids
+          git commit -m "added comment_ids"
           git push
 
   # Build job
