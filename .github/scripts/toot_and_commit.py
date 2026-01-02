@@ -87,7 +87,7 @@ def is_published(fm, filename):
 
 
 def toot_post(instance, token, content, in_reply_to_id=None):
-    url = instance.rstrip("/") + "/api/v1/statuses"
+    url = f"https://{instance}/api/v1/statuses"
     data = {"status": content, "visibility": "public"}
     if in_reply_to_id:
         data["in_reply_to_id"] = in_reply_to_id
