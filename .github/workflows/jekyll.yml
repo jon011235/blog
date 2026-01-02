@@ -65,7 +65,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-         with:
+        with:
           fetch-depth: 0  # Ensure the full history is fetched, including recent pushes
 
       - name: debug
