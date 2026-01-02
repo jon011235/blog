@@ -50,7 +50,8 @@ jobs:
           MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
         run: python .github/scripts/toot_and_commit.py
       
-      - name: |
+      - name: add_commit_push
+        run: |
           git config --global user.name 'Your Name'
           git config --global user.email 'your-username@users.noreply.github.com'
           git add _posts/*
