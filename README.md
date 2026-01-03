@@ -11,3 +11,4 @@ TODO:
 - banner on every page (header with disclaimer about being civil and favorable when reading as well as asking whether people want updates)
 - Mail Newsletter?
 - get comment_embedding and autoposting through git submodule
+- apparently I should change the `Gemfile` to use the github-pages jem and not the jekyll gem
