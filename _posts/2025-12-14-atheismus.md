@@ -3,7 +3,6 @@ layout: post_comment
 title: Atheismus - eine erkenntnistheoretisch schwer haltbare Position
 date: 2025-12-14 14:24:00 +0100
 categories: reflection
-comment_id: '115828425037337613'
 ---
 > Dieser Text ist definitiv nichts **Unglaubliches Neues** und ist wahrscheinlich auch schlechter belegt. Ich hoffe, du findest ihn trotzdem interessant.  
 > Als Gegenthese könnte man beispielsweise Richard Dawkins lesen, den ich persönlich als selbst dogmatisch empfinde. Ich möchte außerdem hinzufügen, dass ich zu den meisten hier genannten Dingen bislang keine Primärquelle gelesen habe.  
