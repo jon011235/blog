@@ -8,6 +8,7 @@ comment_id: '115828460090009764'
 > Dieser Text ist definitiv nichts **Unglaubliches Neues** und ist wahrscheinlich auch schlechter belegt. Ich hoffe, du findest ihn trotzdem interessant.  
 > Als Gegenthese könnte man beispielsweise Richard Dawkins lesen, den ich persönlich als selbst dogmatisch empfinde. Ich möchte außerdem hinzufügen, dass ich zu den meisten hier genannten Dingen bislang keine Primärquelle gelesen habe.  
 
+> Update 19.01: Ich habe (zu Recht) den Vorwurf bekommen, das ich nicht gut genug belege das es tatsächliche Menschen gibt die diese "extreme" Form von Atheismus vertreten, typischerweise wird hier Richard Dawkins genannt, aber ich habe mich zu wenig mit ihm auseinandergesetzt um das zu behaupten. Ich werde hoffentlich noch mal zu diesem Artikel zurückkommen und das verbessern.
 
 Einige Definitionen zum Zweck dieses Posts:  
 
