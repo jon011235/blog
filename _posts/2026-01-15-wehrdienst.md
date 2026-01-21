@@ -1,8 +1,7 @@
 ---
 layout: post_comment
-title: unqualifizierte Gedanken zu einer Wehrplichtsdiskussion
+title: unqualifizierte Gedanken zu einer Wehrdienstdiskussion
 categories: reflection
-comment_id: '115934356725948178'
 ---
 Ich habe vor einer Weile beim [ESN](https://de.wikipedia.org/wiki/Erasmus_Student_Network) zwei Politikwissenschaftsstudentinnen getroffen (eine Französin, eine Deutsche) und irgendwie sind wir, während wir im Rahmen des sogenannten "Sketch Roulettes", während wir unsere Mandalas ausgemalt haben, auf das Thema Wehrdienst gekommen. Da beide sehr für einen Wehrdienst waren, habe ich recht vehement dagegen argumentiert, auch wenn ich selbst noch keine sehr gefestigte Meinung dazu habe. Nach kurzer Zeit ist die deutsche Politikstudentin ausgestiegen, in meiner Wahrnehmung aufgrunddessen dass sie meine Position für so schwach oder extrem hielt, dass die Diskussion es nicht wert war, aber ich mag mich hierbei täuschen.
 
@@ -21,10 +20,10 @@ Ich muss zugegeben, dass ich mich an die genauen Argumente der Politikwissenscha
 ## Patriotismus
 Ich weiß schon lange, dass Deutschland, aufgrund seiner Geschichte, heute im Großen und Ganzen deutlich unpatriotischer, als viele andere Länder ist und empfinde es deswegen immer sehr schräg, wenn Menschen behaupten, ihr Land sei das Beste in XY und sie seien deshalb so stolz auf ihr Land. Deswegen hat es mich auch nicht überrascht, als die Französin auch viel damit argumentiert hat.
 
-Kurzer Zwischeneinschub: Meine Wahrnehmung dessen, was man aus Patriotismus ziehen kann hat sich in den letzten Jahren und insbesondere auch durch den brillianten Essay "The Lion and the Unicorn: Socialism and the English Genius" von George Orwell geändert: Ich kann Patriotismus zu Werten, und daraus auch den Patriotismus zu einer Gesellschaft und ihrer Demokratie verstehen, hier fand ich auch den Essay von , welcher als überzeugter Nicht Patriot im zweiten Weltkrieg doch einen gewissen Patriotismus und Überzeugungen für sein Land entdeckt. Die Argumentation fand ich sehr einleuchtend, auch wenn ich wahrscheinlich zu feige bin um daraus Handlungen zu ziehen.
+Kurzer Zwischeneinschub: Meine Wahrnehmung dessen, was man aus Patriotismus ziehen kann hat sich in den letzten Jahren und insbesondere auch durch den brillianten Essay "The Lion and the Unicorn: Socialism and the English Genius" von George Orwell geändert. In dem Essay des überzeugten Nicht-Patrioten welcher im zweiten Weltkrieg doch einen gewissen Patriotismus und Überzeugungen für sein Land entdeckt. Die Argumentation fand ich sehr einleuchtend, auch wenn ich wahrscheinlich zu feige bin um daraus Handlungen zu ziehen. Ich kann Patriotismus zu Werten, und daraus auch den Patriotismus zu einer Gesellschaft und ihrer Demokratie verstehen.
 
-Aber dieser Patriotismus zu Werten ist nicht das was, zumindest ich höre wenn ich sehe wie Menschen über Patriotismus reden, das mag an mir liegen, aber ich glaube es eigentlich nicht:
-Wenn Politiker einschlägiger deutscher Parteien fordern Patriotismus in Deutschland zu stärken[^6], wenn die Französin mir davon erzählt, wenn ich eine griechische Grundschule Klasse im Militärmuseum erlebe oder mit meiner griechischen Familie über Griechenland rede (die sehr aufgeklärte Menschen sind). Der Patriotismus gilt in erster Linie der Nation, die dann hoffentlich irgendwelche Werte repräsentiert und nicht erst den Werten und in Folge dessen der Nation.
+Aber das ist, zumindest in meiner Wahrnehmung, nicht das was Menschen meinen, wenn sie über Patriotismus reden oder patriotisch sind, das mag an mir liegen, aber ich glaube es eigentlich nicht:
+Wenn Politiker einschlägiger deutscher Parteien fordern Patriotismus in Deutschland zu stärken[^6], wenn die Französin mir davon erzählt das man das Land verteidigen muss, wenn ich eine griechische Grundschule Klasse im Militärmuseum erlebe oder mit meiner griechischen Familie über Griechenland rede (die sehr aufgeklärte Menschen sind). Es schwingt immer noch mehr als der reine Erhalt der Werte, die in dieser Nation erfüllt werden (sollen) mit. Der Patriotismus gilt in erster Linie der Nation, die dann hoffentlich irgendwelche Werte repräsentiert, anstatt dass die Werte die Nation repräsentieren.
 
 Auch erlebe ich es fast immer, dass daraus dann Ansprüche darüber gezogen werden, wie groß die Nation ist, oft verbunden mit der scherzhaften Abwertung aller anderen Länder. Ich frage mich nur, wie scherzhaft das wirklich ist. Im Endeffekt werden damit doch Meistens gar nicht so selten unterbewusste Muster reproduziert[^8].
 
