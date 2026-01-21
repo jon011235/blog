@@ -2,6 +2,7 @@
 layout: post_comment
 title: unqualifizierte Gedanken zu einer Wehrplichtsdiskussion
 categories: reflection
+comment_id: '115934356725948178'
 ---
 Ich habe vor einer Weile beim [ESN](https://de.wikipedia.org/wiki/Erasmus_Student_Network) zwei Politikwissenschaftsstudentinnen getroffen (eine Französin, eine Deutsche) und irgendwie sind wir, während wir im Rahmen des sogenannten "Sketch Roulettes", während wir unsere Mandalas ausgemalt haben, auf das Thema Wehrdienst gekommen. Da beide sehr für einen Wehrdienst waren, habe ich recht vehement dagegen argumentiert, auch wenn ich selbst noch keine sehr gefestigte Meinung dazu habe. Nach kurzer Zeit ist die deutsche Politikstudentin ausgestiegen, in meiner Wahrnehmung aufgrunddessen dass sie meine Position für so schwach oder extrem hielt, dass die Diskussion es nicht wert war, aber ich mag mich hierbei täuschen.
 
