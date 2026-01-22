@@ -8,8 +8,6 @@ comment_id: '115828460090009764'
 > Dieser Text ist definitiv nichts **Unglaubliches Neues** und ist wahrscheinlich auch schlechter belegt. Ich hoffe, du findest ihn trotzdem interessant.  
 > Als Gegenthese könnte man beispielsweise Richard Dawkins lesen, den ich persönlich als selbst dogmatisch empfinde. Ich möchte außerdem hinzufügen, dass ich zu den meisten hier genannten Dingen bislang keine Primärquelle gelesen habe.  
 
-> Update 19.01: Ich habe (zu Recht) den Vorwurf bekommen, das ich nicht gut genug belege das es tatsächliche Menschen gibt die diese "extreme" Form von Atheismus vertreten, typischerweise wird hier Richard Dawkins genannt, aber ich habe mich zu wenig mit ihm auseinandergesetzt um das zu behaupten. Ich werde hoffentlich noch mal zu diesem Artikel zurückkommen und das verbessern.
-
 Einige Definitionen zum Zweck dieses Posts:  
 
 **Atheismus**: Die Überzeugung, dass ein göttliches Wesen jedweder Form nicht existiert, bzw. dass es falsch ist, eine solche Existenz anzunehmen.  
@@ -38,6 +36,8 @@ Das Problem liegt darin, dass Ockhams Rasiermesser häufig in Debatten angeführ
 ## Fazit
 
 Weniger Annahmen und damit mehr Allgemeingültigkeit erreicht man, wenn man weder Ockhams Rasiermesser noch Gott annimmt (oder glaubt) und stattdessen eine agnostische Haltung einnimmt. Für konkrete Glaubensschemata, die falsifizierbare Hypothesen aufweisen (z. B. die Wirksamkeit von Talismanen oder Homöopathie), sieht das Bild natürlich anders aus. Gleichzeitig schließt es beispielsweise Gotteserscheinungen nicht aus, da diese inhärent nicht wiederholbar sind und damit ebenfalls keine testbare Hypothese darstellen.  
+
+> Upadate 22.01: Ich habe das Feedback erhalten, dass nicht hinreichend belegt wird, das (viele) Atheisten, die Einschränkung in ihrem Weltbild machen, einen Gott in jeder Form auszuschließen. Um das nachzureichen möchte ich bspw. [Atheism: A Very Short Introduction](https://academic.oup.com/book/35408) nachreichen, in welchem bspw. dargelegt wird, das die allermeisten Atheisten, Naturalisten sind, "also dass die Welt als ein rein von der Natur gegebenes Geschehen zu begreifen ist." - [Wikipedia](https://de.wikipedia.org/wiki/Naturalismus_(Philosophie))
 
 <!--  
 Hinzu kommt, dass einige Atheisten (darunter beispielsweise [Richard Dawkins](https://de.wikipedia.org/wiki/Richard_Dawkins)) das System von Glaube recht gut reproduzieren: Sie vertreten mit großer Überzeugung die Ansicht, dass es keinen Gott gibt. Diese Position ist zwar völlig vertretbar, aber nicht belegbar und führt teilweise zu Pauschalisierungen wie „Alle Gläubigen sind Fanatiker“, wodurch die Kritik an Religion selbst reproduziert wird.  
