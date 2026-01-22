@@ -2,8 +2,8 @@
 layout: post_comment
 title: A little game about knowledge
 categories: tech
+comment_id: '115938039738751975'
 ---
-
 Science is incredibly effective and usually, once a hypothesis is widely accepted enough it will be considered truth (at least for the purpose of science communication or teaching). But what does it mean to come up with a hypothesis? How can we predict how the world we are observing will behave? And where can the scientific method lead us to convictions that are not in accordance with the ground truth?
 
 Together with [Andrei](https://github.com/andcov), I started to develop a little game about different scenarios or riddles, for which in order to solve the level, the players have to build a model which correctly predicts the scenarios physics.
