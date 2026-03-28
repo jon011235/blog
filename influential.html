@@ -19,7 +19,7 @@ permalink: /influential/
 }
 
 .influential-item img {
-  width: 150px;     /* adjust for desired size */
+  width: 180px;
   height: auto;
   border-radius: 6px;
 }
@@ -32,6 +32,17 @@ permalink: /influential/
   font-size: 1.4em;
   font-weight: bold;
   margin-bottom: 8px;
+}
+
+@media (max-width: 700px) {
+  .influential-item {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .influential-item img {
+    width: min(75vw, 320px);
+  }
 }
 </style>
 
