@@ -3,27 +3,17 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+lang: en
 ---
 
-## Willkommen!
-**(English translation below)**
-Willkommen auf meinem Blog! Ich möchte etwas Neues wagen und meine Gedanken ins Internet "schreien" - in der Hoffnung, mit anderen Menschen in Kontakt zu treten, Diskussionen anzuregen und konstruktive Kritik zu erfahren.
-
-Ich würde mich sehr freuen, wenn du einen meiner Artikel liest und mir eine E-Mail schreibst, besonders wenn du sonst eher zurückhaltend mit Online-Kommentaren bist. Ich bitte dich dann nur darum, dass wir so kommunizieren, wie wir es in einem persönlichen Gespräch von Angesicht zu Angesicht tun würden. 
-
-Mein Eindruck ist, dass die Textform und viele Onlineformate im speziellem es oft zu einfach machen, verletzend und provokativ zu sein - auf eine Art und Weise, die man in einem direkten Gespräch niemals wählen würde. 
-
-Dieser Blog ist - fürchte ich - ein wilder Mix aus Deutsch und Englisch. Sollte dir etwas unklar sein, nutze gerne ein Übersetzungstool oder schreib mir einfach eine Nachricht.
-
-
-**(German original above)**
+## Welcome!
 Hi, welcome to my blog! While this blog will primarily be in German (I still have a better feeling for nuances in my native language), I warmly invite you to read my articles. If something isn't clear, feel free to use a translation tool.
 
 With this blog, I want to try something new and share my thoughts on the internet. My hope is to engage with new people, inspire fresh perspectives, and welcome constructive criticism. I'm particularly interested in hearing from those who, like me until now, don't typically comment online. 
 
 My only request when you write to me is that you imagine we're having a face-to-face conversation. I've often observed that written communication—and the internet in particular—can erode empathy and make it too easy to be more harsh or dismissive than we would ever be in a direct, personal dialogue.
 
-
+Also: please be reassured I am no AI, but I do you github copilot to refine language and to help with translations.
 
 
 
