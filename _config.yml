@@ -27,7 +27,11 @@ mastodon:
 - username: overwhelming_complexity
   instance: troet.cafe
 
-lang: de-DE
+#lang: de-DE
+languages: ["en", "de"]
+default_lang: "de"
+exclude_from_localization: ["javascript", "images", "css", "public", "sitemap", "CNAME"]
+parallel_localization: true
 
 # Build settings
 theme: minima

@@ -17,7 +17,7 @@ Also: please be reassured I am no AI, but I do you github copilot to refine lang
 
 
 
-## Empfehlungen
+## Recommendations
 Some books and other media that I recommend (look at the [influential](/influential/) page to learn why). 
 
 <style>
