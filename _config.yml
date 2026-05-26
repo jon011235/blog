@@ -28,7 +28,7 @@ mastodon:
   instance: troet.cafe
 
 #lang: de-DE
-languages: ["en", "de"]
+languages: ["de", "en"]
 default_lang: "de"
 exclude_from_localization: ["javascript", "images", "css", "public", "sitemap", "CNAME"]
 parallel_localization: true
@@ -40,6 +40,7 @@ theme: minima
 # TODO needed? https://stackoverflow.com/questions/19483975/jekyll-on-github-pages-any-way-to-add-footnotes-in-markdown
 plugins:
   - jekyll-feed
+  - jekyll-polyglot
 
 # Exclude from processing.
 # The following items will not be processed, by default.

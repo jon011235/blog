@@ -4,6 +4,7 @@
 
 layout: home
 lang: de
+permalink: /
 ---
 
 ## Willkommen!
