@@ -29,7 +29,7 @@ mastodon:
 
 #lang: de-DE
 languages: ["de", "en"]
-default_lang: "de"
+default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css", "public", "sitemap", "CNAME"]
 parallel_localization: true
 

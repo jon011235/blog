@@ -8,13 +8,13 @@ permalink: /
 ---
 
 ## Welcome!
-Hi, welcome to my blog! While this blog will primarily be in German (I still have a better feeling for nuances in my native language), I warmly invite you to read my articles. If something isn't clear, feel free to use a translation tool.
+Hi, welcome to my blog! While this blog will primarily be in German (I still have a better feeling for nuances in my native language), I warmly invite you to read my articles (I provided AI translation for all posts).
 
 With this blog, I want to try something new and share my thoughts on the internet. My hope is to engage with new people, inspire fresh perspectives, and welcome constructive criticism. I'm particularly interested in hearing from those who, like me until now, don't typically comment online. 
 
 My only request when you write to me is that you imagine we're having a face-to-face conversation. I've often observed that written communication—and the internet in particular—can erode empathy and make it too easy to be more harsh or dismissive than we would ever be in a direct, personal dialogue.
 
-Also: please be reassured I am no AI, but I do you github copilot to refine language and to help with translations.
+Also: please be reassured I am no AI, but I do use GitHub Copilot to refine language and to help with translations.
 
 
 

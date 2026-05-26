@@ -1,0 +1,17 @@
+---
+layout: page
+title: About
+permalink: /about/
+lang: en
+---
+
+> Mostly AI translation by Gemini 3 Flash
+
+Hi,
+Like most people, I try to understand the world and the people around me. Usually, I fail. To a significant extent, this is due to that incredible complexity and uniqueness – which is where the blog's name comes from. On top of that, almost all perspectives on this world are closed off to me. I only have my own inside view. Sometimes I think I would just like to write something about a topic I've been thinking about for a while, and I hope this blog will be that place. In particular, I hope that I'm not just screaming into the void, but that other people will read it and share their thoughts with me. Feel free to write to me! Especially if you don't usually post anything on the internet or just write to strangers. I've currently made it a goal to do exactly that more often (also in the real world) and I always find it very exciting to see what perspectives I encounter. The only thing I ask is that you imagine you are having a conversation with me while you write to me or read the articles. In my experience, this leads to being more constructive and less hurtful to each other; the internet dehumanizes quickly.
+
+I often feel that writing fails to communicate what my opinion really is and what I want to express. When I speak with someone, that is also true to a certain extent, especially due to the linear nature of communication, which makes it impossible to weigh multiple points simultaneously or to debate several disagreements at once due to the limits of human focus and context retention. When writing, there is also the fact that I am much worse at it, which is probably largely due to a lack of experience, but I also feel that it doesn't suit me as well. What weighs much more heavily, however, is that so much context is lost in writing, which makes it very easy, or almost necessary, to misunderstand a text. There is no tone of voice, no gestures, no facial expressions, and no context at all (except for the hint explicitly given and thus colored by the author) about the author's current state of mind. Most importantly there is no feedback loop between writer and reader, which is the key in normal communication.
+
+This brings me to an even more important point, especially with a platform like this which, unlike conversations, actually makes it possible to go back to earlier arguments without the new context reinterpreting and changing the memory too much, as I often experience in a discussion: I myself am overwhelmed by my own complexity. I have no clear opinions, but rather a non-continuous space of opinions that I can represent, depending on my mood, the person I'm talking to, and the current news. Not a few of them are contradictory in their argumentation (especially the "axioms" I often refer to in a discussion). I believe that if I were to read even one text on this blog without knowing it was by me, I would immediately have hundreds of things—small and large—to criticize, and I would probably find the way this blog is written stupid too. That's why it took so long for me to create this blog. I'll ask you to understand from this that nothing in this blog can express my complete opinion or my full personality; I am simply unable to do so, however much I might want to. That's why I'd like to extend another warm invitation to write to me and see the part of my personality that arises when it interacts with yours.
+
+Have fun reading my blog!

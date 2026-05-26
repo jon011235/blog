@@ -3,6 +3,7 @@ layout: post_comment
 title: Atheismus - eine erkenntnistheoretisch schwer haltbare Position
 date: 2025-12-14 14:24:00 +0100
 categories: reflection
+lang: de
 comment_id: '115828460090009764'
 ---
 > Dieser Text ist definitiv nichts **Neues** und ist wahrscheinlich auch schlechter belegt. Ich hoffe, du findest ihn trotzdem interessant.  
