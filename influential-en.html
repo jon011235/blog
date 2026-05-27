@@ -2,7 +2,7 @@
 id: influential
 layout: default
 permalink: /influential/
-lang: de
+lang: en
 ---
 
 <style>
@@ -47,7 +47,7 @@ lang: de
 }
 </style>
 
-<h1>Empfehlungen für Werke, die mich beeinflusst oder beeindruckt haben</h1>
+<h1>Recommendations for works that influenced or impressed me</h1>
 
 <ul class="influential-list">
   {% for item in site.data.influential %}
@@ -66,7 +66,7 @@ lang: de
     
     <div class="influential-content">
       <div class="influential-title">{{ item.title }}</div>
-      <div class="influential-description">{{ item.description | newline_to_br }}</div>
+      <div class="influential-description">{{ item.description_en }}</div>
     </div>
 
   </li>
